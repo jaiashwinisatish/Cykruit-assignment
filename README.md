@@ -1,4 +1,4 @@
-# ⚡ Cykruit v3 — Cybersecurity Career Platform
+# ⚡ Cykruit v3 Cybersecurity Career Platform
 
 > **Version 3** · [cykruit.vercel.app](https://cykruit.vercel.app) · Built for the Frontend Intern Assignment
 
